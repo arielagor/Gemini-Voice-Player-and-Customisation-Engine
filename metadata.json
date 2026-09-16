@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Voice Player",
+  "description": "Experience all 8 voices in Gemini 3.8 Live with personalized pitch, speed, EQ controls, custom configuration saving, portable string/file export, and voice clone persona engineering.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
